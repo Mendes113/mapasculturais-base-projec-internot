@@ -7,7 +7,7 @@ services:
       
     command: /var/www/dev/start.sh
 
-    ports:
+ 
     
     volumes:
       - ./docker-data/assets:/var/www/html/assets
